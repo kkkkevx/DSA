@@ -2,6 +2,7 @@
 
 ## Topic:
 - Stack
+- Queue
 
 ## Summary
 ![image](https://github.com/kkkkevx/DSA/assets/108632304/7c7a5ff7-b18c-4b33-a426-ba6ae3ffd0d7)
