@@ -1,4 +1,6 @@
-# DSA： 总题数: **48**
+# DSA： 
+
+Here is my journal about learning data structure and algorithms.
 
 ## 代码随想录打卡记录：
 [Day1](/day1/Day1.md)
