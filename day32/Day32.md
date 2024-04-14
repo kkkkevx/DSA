@@ -1,4 +1,4 @@
-# Day 31: 代码随想录算法训练营
+# Day 32: 代码随想录算法训练营
 
 ## Topic:
 - Dynamic Programming
